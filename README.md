@@ -1,4 +1,5 @@
 # first-project
-this  is my repo
+
+this is my repo
 <br>
-author - soumya
+author - soumya ranjan muduli
